@@ -1,4 +1,4 @@
-## How to run
+# How to run
 
 Dear GBDi Team, please do these steps
 
@@ -7,7 +7,12 @@ Dear GBDi Team, please do these steps
    - Click `Run` above main method
    - Click `Run` button in sidebar and choose `Debug FHIR hello world` and click `Start Debugging`
 
-## NOTE
+# TODO
+[ ] Hibernate Experimental  
+[ ] JPA Experimental  
+[ ] JPA FHIR Server Study  
+
+# NOTE
 
 Maven,
 
