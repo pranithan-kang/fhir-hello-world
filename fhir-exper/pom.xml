@@ -44,7 +44,7 @@
     <!-- Structure Validator -->
     <dependency>
       <groupId>ca.uhn.hapi.fhir</groupId>
-      <artifactId>hapi-fhir-validation-resources-R4</artifactId>
+      <artifactId>hapi-fhir-validation-resources-dstu2</artifactId>
       <version>5.1.0</version>
     </dependency>
 
