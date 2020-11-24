@@ -4,14 +4,20 @@ Dear GBDi Team, please do these steps
 
 1. Open VSCode
 2. Install Maven Packages
-```
+``` shell
 $ cd fhir-exper
 $ mvn install
 $ cd ..
 ```
-3. Run by
-   - Click `Run` above main method
-   - Click `Run` button in sidebar and choose `Debug FHIR hello world` and click `Start Debugging`
+
+# How to run .jar file
+``` shell
+$ mvn exec:java
+```
+
+# How to debug
+1. Click `Run` above main method
+2. Click `Run` button in sidebar and choose `Debug FHIR hello world` and click `Start Debugging`
 
 # TODO
 [ ] Hibernate Experimental  
